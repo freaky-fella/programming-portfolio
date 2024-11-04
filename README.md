@@ -1,5 +1,5 @@
 # Yicheng Deng's Programming Portfolio 24-25
-*[Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
+Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028
 * Interests in Tennis
 * Experience in Python

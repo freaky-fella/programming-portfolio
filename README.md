@@ -1,8 +1,12 @@
 # Yicheng Deng's Programming Portfolio 24-25
+*[Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028
 * Interests in Tennis
 * Experience in Python
 * Learning Javascript and C++
+* Certifications: Nothing So Far
+
+
 ## Term 1
 ### Etch-A-Sketch
 Interactive Graphic Project with key controls

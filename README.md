@@ -12,6 +12,6 @@ Interactive Graphic Project with key controls
 ## Term 2
 ### Calulator
 Interactive Calculator with custom buttons and UI
-![Running App](![Screenshot 2024-11-04 at 9 56 42 AM](https://github.com/user-attachments/assets/e0fb807c-7ddc-40fe-962d-f834a0e88062)
+![Running App](https://github.com/user-attachments/assets/e0fb807c-7ddc-40fe-962d-f834a0e88062
 )
 [Source Code]()

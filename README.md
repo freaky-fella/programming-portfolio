@@ -7,6 +7,7 @@
 ### Etch-A-Sketch
 Interactive Graphic Project with key controls
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/EtchASketchpic.png?raw=true)
+
 [Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/EtchASketch.pde)  
 
 ## Term 2

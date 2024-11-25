@@ -24,7 +24,7 @@ Interactive Calculator with custom buttons and UI
 
 ### Space Game
 OOP Space Game with levels and powerups
-![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/SpaceGame.png)
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/SpaceGame.png?raw=true)
 
 
 

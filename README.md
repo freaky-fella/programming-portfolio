@@ -1,7 +1,6 @@
 # Yicheng Deng's Programming Portfolio 24-25
 Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028
-* Interests in Tennis
 * Experience in Python
 * Learning Javascript and C++
 * Certifications: Nothing So Far
@@ -21,3 +20,12 @@ Interactive Calculator with custom buttons and UI
 
 
 [Source Code](https://github.com/freaky-fella/programming-portfolio/tree/main/src/Calculator)
+
+
+### Space Game
+Space Game with levels and powerups
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Screenshot%202024-11-25%20at%209.09.51%20AM.png)
+
+
+
+[Source Code](https://github.com/freaky-fella/programming-portfolio/tree/main/src/SpaceGame)

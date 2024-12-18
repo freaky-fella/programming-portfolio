@@ -4,7 +4,7 @@ Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[G
 * Experience in Python
 * Learning Javascript and C++
 * Certifications: Computer Programming 1 Certification.
-* [Certificate](https://github.com/freaky-fella/programming-portfolio/blob/main/docs/ComputerProgrammingCertificate.pdf)
+* [Certificate](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Certificate.png?raw=true)
 
 
 ## Term 1
@@ -16,13 +16,13 @@ Interactive Graphic Project with key controls
 
 ### Timeline Project
 Interactive Timeline displaying Computer History
-![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Timeline.png)
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Timeline.png?raw=true)
 
 [Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/Timeline.pde)
 
 ### Collision Detection
 Collision Detection App with bouncing balls
-![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Collision.png)
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Collision.png?raw=true)
 
 [Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/colDet.pde)
 

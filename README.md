@@ -3,7 +3,7 @@ Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[G
 * Projected Graduation 2028
 * Experience in Python
 * Learning Javascript and C++
-* Certifications: YouScience Code Certified, Karel Code Certified.
+* Certifications: Computer Programming 1 Certification.
 
 
 ## Term 1

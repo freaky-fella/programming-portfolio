@@ -13,6 +13,18 @@ Interactive Graphic Project with key controls
 
 [Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/EtchASketch.pde)  
 
+### Timeline Project
+Interactive Timeline displaying Computer History
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Timeline.png)
+
+[Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/Timeline.pde)
+
+### Collision Detection
+Collision Detection App with bouncing balls
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/Collision.png)
+
+[Source Code](https://github.com/freaky-fella/programming-portfolio/blob/main/src/colDet.pde)
+
 ## Term 2
 ### Calulator
 Interactive Calculator with custom buttons and UI

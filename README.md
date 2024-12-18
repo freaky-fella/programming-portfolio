@@ -4,6 +4,7 @@ Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[G
 * Experience in Python
 * Learning Javascript and C++
 * Certifications: Computer Programming 1 Certification.
+* [Certificate](https://github.com/freaky-fella/programming-portfolio/blob/main/images/ComputerProgrammingCertificate.pdf)
 
 
 ## Term 1

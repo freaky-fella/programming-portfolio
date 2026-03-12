@@ -3,6 +3,7 @@
 ### Lord of the Rings Tower Defense
 Circular tower defense game based on the Lord of the Rings series.
 This was a group project where I contributed game logic, spawning logic, collision detection, score-keeping, animation, object placement, and created logic for things such as upgrades.
+![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/LOTRTDrunning.png?raw=true)
 
 
 # Yicheng Deng's Programming Portfolio 24-25

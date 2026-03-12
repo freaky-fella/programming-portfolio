@@ -1,3 +1,10 @@
+# Yicheng Deng's Programming Portfolio 25-26
+## Term 1
+### Lord of the Rings Tower Defense
+Circular tower defense game based on the Lord of the Rings series.
+This was a group project where I contributed game logic, spawning logic, collision detection, score-keeping, animation, object placement, and created logic for things such as upgrades.
+
+
 # Yicheng Deng's Programming Portfolio 24-25
 Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028

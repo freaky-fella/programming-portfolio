@@ -6,6 +6,11 @@ This was a group project where I contributed game logic, spawning logic, collisi
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/LOTRTDrunning.png?raw=true)
 
 
+## Term 2
+### Geometry Dash Clone
+Geometry dash inspired game with custom icons and basic gameplay
+! [Running App] ()
+
 # Yicheng Deng's Programming Portfolio 24-25
 Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028

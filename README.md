@@ -10,7 +10,6 @@ This was a group project where I contributed game logic, spawning logic, collisi
 ### Geometry Dash Clone
 Geometry dash inspired game with custom icons and basic gameplay
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/cubegameplay.png)
-
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/wavegameplay.png)
 
 # Yicheng Deng's Programming Portfolio 24-25

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bob Joe | Programming Portfolio 25-26</title>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --dark: #1e293b;
+            --light: #f8fafc;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            background-color: #f1f5f9;
+            color: var(--dark);
+        }
+        header {
+            background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+            color: white;
+            padding: 3rem 1rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .profile-info {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
+            margin-bottom: 3rem;
+        }
+        .project-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2.5rem;
+        }
+        .project-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+        }
+        @media (min-width: 768px) {
+            .project-card { flex-direction: row; }
+            .project-image { width: 40%; }
+            .project-content { width: 60%; }
+        }
+        .project-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            min-height: 250px;
+        }
+        .project-content {
+            padding: 2rem;
+        }
+        .tag {
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+        .btn {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 1rem;
+            transition: background 0.2s;
+        }
+        .btn:hover { background: #1d4ed8; }
+        .cert-img { max-width: 200px; border: 1px solid #ddd; margin-top: 10px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bob Joe's Programming Portfolio</h1>
+    <p>Class of 2028 | Python • JavaScript • C++</p>
+</header>
+
+<div class="container">
+    <section class="profile-info">
+        <h2>About Me</h2>
+        <p><strong>Contact:</strong> <a href="mailto:joe@bob.org">joe@bob.org</a></p>
+        <p><strong>Certifications:</strong> Computer Programming 1</p>
+        <img src="https://github.com/freaky-fella/programming-portfolio/blob/main/images/Certificate.png?raw=true" alt="Certificate" class="cert-img">
+    </section>
+
+    <div class="project-grid">
+        
+        <article class="project-card">
+            <div class="project-image">
+                <img src="https://github.com/freaky-fella/programming-portfolio/blob/main/images/SpaceGame.png?raw=true" alt="Space Game Gameplay">
+            </div>
+            <div class="project-content">
+                <span class="tag">Object-Oriented Programming</span>
+                <h3>1. Space Game: Galactic Defender</h3>
+                <p>This space shooter leverages advanced <strong>OOP concepts</strong> to manage a dynamic environment. I utilized <strong>ArrayLists</strong> to handle a varying number of active laser and enemy <strong>objects</strong> on screen. Each enemy is an instance of a class with its own <strong>instance variables</strong> for health and speed. The game uses a <strong>constructor</strong> to initialize player stats and implements <strong>collision detection logic</strong> to trigger <strong>methods</strong> that handle damage and power-up collection.</p>
+                <a href="https://github.com/freaky-fella/programming-portfolio/tree/main/src/SpaceGame" class="btn">View Source Code</a>
+            </div>
+        </article>
+
+        <article class="project-card">
+            <div class="project-image">
+                <img src="https://github.com/freaky-fella/programming-portfolio/blob/main/images/LOTRTDrunning.png?raw=true" alt="LOTR Tower Defense">
+            </div>
+            <div class="project-content">
+                <span class="tag">Collaborative Logic</span>
+                <h3>2. Lord of the Rings Tower Defense</h3>
+                <p>A circular tower defense game focusing on <strong>program logic</strong> and state management. I contributed the <strong>spawning logic</strong> using timers and <strong>arrays</strong> to track enemy waves. The project demonstrates <strong>encapsulation</strong> by keeping tower stats private and using public methods for upgrades. We implemented complex <strong>user interaction</strong> for object placement and used <strong>polymorphism</strong> to handle different types of tower projectiles through a shared base class.</p>
+                <a href="https://github.com/freaky-fella/programming-portfolio" class="btn">View Repository</a>
+            </div>
+        </article>
+
+        <article class="project-card">
+            <div class="project-image">
+                <img src="https://github.com/freaky-fella/programming-portfolio/blob/main/images/cubegameplay.png?raw=true" alt="Geometry Dash Clone">
+            </div>
+            <div class="project-content">
+                <span class="tag">Game Physics & Logic</span>
+                <h3>3. Geometry Dash Clone</h3>
+                <p>This project focuses on <strong>game logic</strong> and physics simulation. I created a robust <strong>player class</strong> that handles gravity and jump <strong>methods</strong>. The level data is processed through <strong>arrays</strong>, allowing for custom icon rendering and obstacle placement. It features strict <strong>collision detection</strong>; when the player object intersects with an obstacle object, a "game over" state is triggered, demonstrating effective <strong>boolean logic</strong> and event handling.</p>
+                <a href="https://github.com/freaky-fella/ProjectQ4" class="btn">View Source Code</a>
+            </div>
+        </article>
+
+        <article class="project-card">
+            <div class="project-image">
+                <img src="https://github.com/freaky-fella/programming-portfolio/blob/main/images/Calc1.png?raw=true" alt="Calculator UI">
+            </div>
+            <div class="project-content">
+                <span class="tag">UI/UX & Logic</span>
+                <h3>4. Modular Calculator</h3>
+                <p>An interactive UI project that uses a <strong>grid of Button objects</strong>. Each button is an instance of a class that encapsulates its own label, color, and coordinate <strong>instance variables</strong>. I implemented <strong>constructor overloading</strong> to create different button types (operators vs. numbers) and used a central <strong>logic method</strong> to process string inputs into mathematical calculations, showcasing clean <strong>user interaction</strong> design.</p>
+                <a href="https://github.com/freaky-fella/programming-portfolio/tree/main/src/Calculator" class="btn">View Source Code</a>
+            </div>
+        </article>
+
+    </div>
+</div>
+
+<footer style="text-align: center; padding: 2rem; color: #64748b;">
+    <p>&copy; 2026 Bob Joe. Built for Programming Portfolio Requirements.</p>
+</footer>
+
+</body>
+</html>

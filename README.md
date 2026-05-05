@@ -12,6 +12,8 @@ Geometry dash inspired game with custom icons and basic gameplay
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/cubegameplay.png)
 ![Running App](https://github.com/freaky-fella/programming-portfolio/blob/main/images/wavegameplay.png)
 
+[Source Code](https://github.com/freaky-fella/ProjectQ4)
+
 # Yicheng Deng's Programming Portfolio 24-25
 Contact Information: [Yicheng Deng](mailto:9710594@graniteschools.org?subject=[GitHub])
 * Projected Graduation 2028
